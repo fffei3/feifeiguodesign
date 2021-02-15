@@ -1,104 +1,85 @@
 ---
 title: 'iLead'
-subtitle: 'This is a demo'
+subtitle: 'A performance review management tool for INSTRUMENT'
 date: 2017-11-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/ilead1.gif'
 ---
 
+## Start time
+October 2018
+
+## Duration
+6 weeks
+
 ![](/images/ilead2.png)
 
-## Demo content
+## Problem
+Leaders in Instrument struggle to connect key points of the documents of performance reviews to make the evaluation process collaboratively and efficiently. They also don‘t have an easy-to-use way to give accurate and timely feedback on employees’ achievement and development.
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+## Approach
+Create an effective system to connect key points of the performance review documents and improve the collaboration and efficiency of the evaluation in order to make the process easier for leaders to manipulate.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+## Current stakeholders' requirements
+* Leaders should be able to review tasks in a clear and actionable way.
+* Leaders should be able to take meeting notes on employee self-assessments.
+* Leaders need the ability to write and provide insightful feedback to employees.
+* Leaders should be allowed to collaborate on performance review and expansion plans.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
+## Solution
+* Provide a real-time and collaborative way to write notes and make comments of employees' review documents
+* Ensure leaders have easy access to the review documents and synthesize key information to help them write reviews
+* Allow leaders to provide timely feedback based on employee's goal progression and completion
 
 ---
 
-### Image galleries
+## Use case 1
+As a leader, I want to enhance the efficiency of documents review during the leadership meeting, so that all leaders can be more collaborative making highlights and notes during the process and have a thorough understanding of the employees.
 
-Here's a really neat custom feature we added – galleries:
+![](/images/ilead/ilead_wire.png)
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+![](/images/ilead/ilead_animation1.gif){:height="400px" width="400px"}.
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+## Use case 2
+As a manager of 10+ people's team, I want to better utilize the highlighted notes and comments discussed during the meetings, so that it can help me organize key information more efficiently and write reviews much easier.
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+![](/images/ilead/ilead_wire2.png)
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+![](/images/ilead/ilead_animation2.gif){:height="400px" width="400px"}.
 
----
 
-### Image carousels
+## Use case 3
+As a leader who encourages personal growth and skill training, I want to see employees' goal setting and progression, so that I can give timely and actionable feedback and make sure they can meet their expectations.
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+![](/images/ilead/ilead_wire3.png)
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+![](/images/ilead/ilead_animation3.gif){:height="400px" width="400px"}.
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+## Persona
+In order to have a thorough understanding of the group I am designing for. A visualized persona can help me quickly picture my target audience at a glance and think deeply about what they do, think, feel and see in daily life.
 
-### What about videos?
+![](/images/ilead/ilead_persona.jpeg)
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## Competitors
+Having an overview of the competitive applications in the current marketplace helps me analyze their strengths and weaknesses to find out better solutions for leaders to engage in the performance review process.
 
----
+![](/images/ilead/ilead_competitors.jpeg)
 
-## Pretty cool, huh?
+## Sketches
+I identified the basic structure of each flow and explore the task and requirement linear flow. Make sure users are able to track comments and notes across multiple windows and stages for easy access and recall. Also, I determined the visual hierarchy and layout on each page to ensure the information displayed in a clear and meaningful way.
 
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
+![](/images/ilead/ilead_sketch.jpeg)
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+
+## Design breakdown
+
+![](/images/ilead/ilead_breakdown1.png)
+![](/images/ilead/ilead_breakdown2.png)
+![](/images/ilead/ilead_breakdown3.png)
+
+## Conclusion
+iLEAD helps leaders and managers at INSTRUMENT work more easily and collaboratively with each other in the performance evaluation process in order to provide employees with accurate and timely feedback and improve their personal growth.
+
+<br/><br/>
