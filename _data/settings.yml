@@ -70,11 +70,11 @@ color_settings:
 
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500" rel="stylesheet">'
   title_font: '"Charter", sans-serif'
   body_font: '"Montserrat", sans-serif'
   regular_weight: 400
-  bold_weight: 600
+  bold_weight: 500
   site_title:
     small_size: 16
     medium_size: 18
