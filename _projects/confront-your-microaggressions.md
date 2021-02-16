@@ -36,15 +36,15 @@ It might hurt a certain person or a group through our implicit actions verbally 
 
 Leverage technology to help people notice and rethink their microaggression behavior in real time, educate and inform people to interact better with each other.
 
-![](/images/micro/micro_concept.png){:height="700px" width="700px"}.
+![](/images/micro_concept.png){:height="700px" width="700px"}.
 
 ---
 
 ## Scenario 1
 
-![](/images/micro/micro_story1.png)
+![](/images/micro_story1.png)
 
-![](/images/micro/micro_flow1.png){:height="700px" width="700px"}.
+![](/images/micro_flow1.png){:height="700px" width="700px"}.
 
 <br/>
 
@@ -53,9 +53,9 @@ The aggressor notices the microaggressive behavior immediately
 * Save for later recall and training
 * Track behavior for improvement
 
-![](/images/micro/micro_watchmock1.gif){:height="400px" width="400px"}.
+![](/images/micro_watchmock1.gif){:height="400px" width="400px"}.
 
-![](/images/micro/micro_flow2.png){:height="700px" width="700px"}.
+![](/images/micro_flow2.png){:height="700px" width="700px"}.
 
 <br/>
 
@@ -63,50 +63,50 @@ The microaggression is recognized and raised by the recipient
 * A quick overview of the person talking with, to help determine potential risks or consequences of responding
 * Choose preset less attacking language
 
-![](/images/micro/micro_watchmock2.gif){:height="400px" width="400px"}.
+![](/images/micro_watchmock2.gif){:height="400px" width="400px"}.
 
 The aggressor needs to respond to the recipient as soon as possible
 * The aggressor's watch got locked until initiate a further conversation
 * Confront the problem with each other in a timely manner
 
-![](/images/micro/micro_watchmock3.gif){:height="400px" width="400px"}.
+![](/images/micro_watchmock3.gif){:height="400px" width="400px"}.
 
 <br/><br/>
 
 ## Scenario 2
 
-![](/images/micro/micro_story2.png)
+![](/images/micro_story2.png)
 
 View daily activities and track a specific microaggression
 * A clear overview of the records of their microaggression
 * Choose to track particular microaggressions based on their preferences
 
-![](/images/micro/micro_phonemock1.gif){:height="300px" width="300px"}.
+![](/images/micro_phonemock1.gif){:height="300px" width="300px"}.
 
 Interact and engage in the community
 * Friends at the same stage of achievement are able to encourage and motivate each other
 * Badge awards empower people to be more aware of their behavior
 
-![](/images/micro/micro_phonemock2.gif){:height="300px" width="300px"}.
+![](/images/micro_phonemock2.gif){:height="300px" width="300px"}.
 
 Be educational and bring more engagement
 * Read and learn about the impact and how to improve their behavior
 * Have a quiz to make sure they gain the knowledge of the particular type of microaggression
 
-![](/images/micro/micro_phonemock3.gif){:height="300px" width="300px"}.
+![](/images/micro_phonemock3.gif){:height="300px" width="300px"}.
 
 Track long-term microaggression stats
 * Provide insights on how the user's performance in the past week or month in a visualized way
 * Be able to improve their behavior and keep track of them
 
-![](/images/micro/micro_phonemock4.gif){:height="300px" width="300px"}.
+![](/images/micro_phonemock4.gif){:height="300px" width="300px"}.
 
 <br/><br/>
 
 ## My process
 I started with establishing a tangible design process in the early stage to have a clear and specific scope about the necessary phases of thesis project and breakdown to the tasks for each week and each day.
 
-![](/images/micro/micro_processoverview.png){:height="700px" width="700px"}.
+![](/images/micro_processoverview.png){:height="700px" width="700px"}.
 
 <br/>
 
@@ -128,35 +128,35 @@ During the time I started to interview different people about their understandin
 
 ## Personas & their typical days
 <div class="gallery" data-columns="3">
-	<img src="/images/micro/micro_persona1.png">
-	<img src="/images/micro/micro_persona11.png">
-	<img src="/images/micro/micro_persona2.png">
-	<img src="/images/micro/micro_persona21.png">
-	<img src="/images/micro/micro_persona3.png">
-	<img src="/images/micro/micro_persona31.png">
+	<img src="/images/micro_persona1.png">
+	<img src="/images/micro_persona11.png">
+	<img src="/images/micro_persona2.png">
+	<img src="/images/micro_persona21.png">
+	<img src="/images/micro_persona3.png">
+	<img src="/images/micro_persona31.png">
 </div>
 
 <br/><br/>
 
 ## Recipients' emotional journey
-![](/images/micro/micro_ejourney.png){:height="700px" width="700px"}.
+![](/images/micro_ejourney.png){:height="700px" width="700px"}.
 
 <br/><br/>
 
 ## "How might we" exercise
-![](/images/micro/micro_hmw.png){:height="700px" width="700px"}.
+![](/images/micro_hmw.png){:height="700px" width="700px"}.
 
 <br/><br/>
 
 ## Visual design
 For both the watch and mobile user interface, I utilize color to indicate different status and level of intensity, for example, the pinkish color represents an aggressive and unstable situation and the light green color expresses a safe and good condition.
 
-![](/images/micro/micro_color.png){:height="700px" width="700px"}.
+![](/images/micro_color.png){:height="700px" width="700px"}.
 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/micro/micro_visual.png">
-	<img src="/images/micro/micro_mobilevisual.png">
+	<img src="/images/micro_visual.png">
+	<img src="/images/micro_mobilevisual.png">
 </div>
 
 <br/><br/>

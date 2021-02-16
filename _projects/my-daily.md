@@ -31,7 +31,7 @@ Design a system for college students who feel difficult to organize and balance 
 * Sync your calendar schedule in one platform
 * Give personalized suggestions based on the needs
 
-![](./images/daily/daily_flow1.gif){:height="400px" width="400px"}.
+![](./images/daily_flow1.gif){:height="400px" width="400px"}.
 
 
 **Stay forcused on your task**
@@ -39,14 +39,14 @@ Design a system for college students who feel difficult to organize and balance 
 * Help get one thing done at a time without distraction
 * Relaxing animation and sound
 
-![](./images/daily/daily_flow2.gif){:height="400px" width="400px"}.
+![](./images/daily_flow2.gif){:height="400px" width="400px"}.
 
 
 **Doing overtime? Don't worry**
 * Quickly add extra time to complete task
 * Engaging interactions
 
-![](./images/daily/daily_flow3.gif){:height="400px" width="400px"}.
+![](./images/daily_flow3.gif){:height="400px" width="400px"}.
 
 
 **Get well-organized**
@@ -58,13 +58,13 @@ Design a system for college students who feel difficult to organize and balance 
 ## Competitor research
 I did research about some task planning, habit forming products and got some inspirations from them.
 
-![](./images/daily/daily_competitor.png)
+![](./images/daily_competitor.png)
 
 <br/><br/>
 
 ## Persona
 
-![](./images/daily/daily_persona.png)
+![](./images/daily_persona.png)
 
 
 <br/><br/>
@@ -72,7 +72,7 @@ I did research about some task planning, habit forming products and got some ins
 ## Lo-fi wireframes
 The low fidelity wireframes help me identify the optimal framwork of the app and better understand the user behavior on each screen.
 
-![](/images/daily/daily_wire.png)
+![](/images/daily_wire.png)
 
 
 <br/><br/>
@@ -80,8 +80,8 @@ The low fidelity wireframes help me identify the optimal framwork of the app and
 ## Design decisions
 
 <div class="gallery" data-columns="1">
-	<img src="/images/daily/daily_screen1.png">
-	<img src="/images/daily/daily_screen2.png">
+	<img src="/images/daily_screen1.png">
+	<img src="/images/daily_screen2.png">
 </div>
 
 1. The chatbot conversation screen allows users to tell their request via voice or keyboard.
