@@ -224,7 +224,8 @@ a {
 	color: $background-color;
 	font-weight: $button-weight;
 	letter-spacing: $button-spacing;
-	cursor: pointer;
+	cursor: url('../images/cursor.PNG'), auto;
+	height: 100vh;
 
 	@include mq(tabletp) {
 		padding: 11px 20px 12px;

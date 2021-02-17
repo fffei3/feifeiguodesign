@@ -1,5 +1,5 @@
 ---
-title: 'Confront your microaggressions'
+title: 'Confront microaggressions'
 subtitle: 'An exploration of microaggression awareness in real-time conversations and long-term tracking system'
 date: 2018-08-30 00:00:00
 description:
