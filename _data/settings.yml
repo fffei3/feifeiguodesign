@@ -118,7 +118,7 @@ font_settings:
     medium_size: 16
     large_size: 18
     weight: 500
-    letter_spacing: -0.02
+    letter_spacing: 0
     line_height: 1
   h3:
     small_size: 22
