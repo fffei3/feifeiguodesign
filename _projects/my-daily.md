@@ -15,7 +15,7 @@ Dec 2018
 ## Awards
 [Gold Medalist - 2018 ICDE UX/UI Design Competition](https://icde.co/pages/2018-graduate-ux-ui-design-winners)
 
-![](./images/mydaily2.png)
+![](/images/mydaily2.png)
 
 
 ## Problem
@@ -31,7 +31,7 @@ Design a system for college students who feel difficult to organize and balance 
 * Sync your calendar schedule in one platform
 * Give personalized suggestions based on the needs
 
-![](./images/daily_flow1.gif){:height="400px" width="400px"}.
+![](/images/daily_flow1.gif){:height="400px" width="400px"}.
 
 
 **Stay forcused on your task**
@@ -39,14 +39,14 @@ Design a system for college students who feel difficult to organize and balance 
 * Help get one thing done at a time without distraction
 * Relaxing animation and sound
 
-![](./images/daily_flow2.gif){:height="400px" width="400px"}.
+![](/images/daily_flow2.gif){:height="400px" width="400px"}.
 
 
 **Doing overtime? Don't worry**
 * Quickly add extra time to complete task
 * Engaging interactions
 
-![](./images/daily_flow3.gif){:height="400px" width="400px"}.
+![](/images/daily_flow3.gif){:height="400px" width="400px"}.
 
 
 **Get well-organized**
@@ -58,13 +58,13 @@ Design a system for college students who feel difficult to organize and balance 
 ## Competitor research
 I did research about some task planning, habit forming products and got some inspirations from them.
 
-![](./images/daily_competitor.png)
+![](/images/daily_competitor.png)
 
 <br/><br/>
 
 ## Persona
 
-![](./images/daily_persona.png)
+![](/images/daily_persona.png)
 
 
 <br/><br/>
