@@ -13,7 +13,7 @@ canAccess = () => {
     
     sha256(password).then(attempt => {
         if (attempt === encryptedPassword) {
-            document.getElementById('modal-hide').classList.remove('display-none');
+            document.getElementById('content-hide').classList.remove('display-none');
             closeModal();
         } else {
             alert('Invalid password');

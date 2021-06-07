@@ -6,20 +6,20 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/kayak1.png'
 ---
 
-<div id="modal" class="modal">
-    <div class="modal-content">
-        <span class="close" onclick="redirect()">&times;</span>
-        <div class="modal-password">
-            <p class="modal-password-p">Please enter password to continue</p>
-            <input id='password' class="modal-password-input" type='password' />
-            <button type="button" class="modal-password-button" onclick="canAccess()">
-                Submit
-            </button>
-        </div>
+<div>
+    <img src="/images/kayak2.png"/>
+</div>
+
+<div id="password-section" class="password-section">
+    <p class="password-section-p">This content is password protected. To view it please enter your password below:</p>
+    <div class="password-section-content">
+        <input id='password' class="password-section-input" type='password' />
+        <button type="button" class="password-section-button" onclick="canAccess()">
+            Submit
+        </button>
     </div>
 </div>
 
-<div id="modal-hide" class="display-none">
-    <img src="/images/kayak2.png"/>
-    <h2>Coming soon...</h2>
+<div id="content-hide" class="display-none">
+    <h2>Coming soon to feifeifeifeifeifeifeifeifeifeifeifei</h2>
 </div>
