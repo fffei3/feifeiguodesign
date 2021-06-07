@@ -6,7 +6,6 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/kayak1.png'
 ---
 
-<!-- PASSWORD LOGIC -->
 <script>
 var encryptedPassword = `{{ site.password.kayak-encrypted }}`;
 canAccess = () => {
@@ -50,9 +49,7 @@ async function sha256(message) {
 };
 
 </script>
-<!-- PASSWORD LOGIC -->
 
-<!-- PASSWORD POPUP -->
 <div id="modal" class="modal">
     <div class="modal-content">
         <span class="close" onclick="redirect()">&times;</span>
@@ -65,7 +62,6 @@ async function sha256(message) {
         </div>
     </div>
 </div>
-<!-- PASSWORD POPUP -->
 
 <div id="modal-hide" class="display-none">
     <img src="/images/kayak2.png"/>
