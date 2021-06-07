@@ -1,7 +1,9 @@
 site: Index Jekyll Theme
 
 url: https://index.jekyllthemes.io
-baseurl: "feifeiguodesign"
+baseurl: ""
+password:
+  kayak-encrypted: 50bee95efa962f69dadf17d4d5fd17a17ab640362db04ed2615829db82f27e1d
 
 collections:
   pages:
