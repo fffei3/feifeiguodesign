@@ -14,7 +14,6 @@ canAccess = () => {
     sha256(password).then(attempt => {
         if (attempt === encryptedPassword) {
             document.getElementById('content-hide').classList.remove('display-none');
-            closeModal();
         } else {
             alert('Invalid password');
         }
@@ -23,10 +22,6 @@ canAccess = () => {
 
 redirect = () => {
     window.location.replace("/");
-};
-
-closeModal = () => {
-    document.getElementById('modal').classList.add('display-none');
 };
 
 async function sha256(message) {

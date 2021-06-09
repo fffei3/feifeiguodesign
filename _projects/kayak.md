@@ -6,6 +6,8 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/kayak1.png'
 ---
 
+<script src="{{ '/js/password.js' }}"></script>
+
 <div>
     <img src="/images/kayak2.png"/>
 </div>
