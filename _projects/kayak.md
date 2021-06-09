@@ -24,5 +24,5 @@ featured_image: '/images/kayak1.png'
 </div>
 
 <div id="content-hide" class="display-none">
-    <h2>Coming soon to feifeifeifeifeifeifeifeifeifeifeifei</h2>
+    <h2>Coming soon...</h2>
 </div>

@@ -5,8 +5,6 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 <h1>Hi! Nice to meet you.</h1>
 
 I'm Feifei, <br>

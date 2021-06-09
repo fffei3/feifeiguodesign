@@ -3,10 +3,11 @@ title:
 subtitle: 
 description: 
 featured_image: /images/demo/demo-landscape.jpg
-layout: default
 ---
 <div class="gallery" data-columns="3">
+    <img src="/images/play14.gif">
     <img src="/images/play12.gif">
+    <img src="/images/play13.gif">
 	<img src="/images/play11.gif">
 	<img src="/images/play9.gif">
     <img src="/images/play8.gif">
