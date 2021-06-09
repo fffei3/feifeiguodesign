@@ -14,6 +14,7 @@ canAccess = () => {
     sha256(password).then(attempt => {
         if (attempt === encryptedPassword) {
             document.getElementById('content-hide').classList.remove('display-none');
+            document.getElementById('password-section').classList.add('display-none');
         } else {
             alert('Invalid password');
         }

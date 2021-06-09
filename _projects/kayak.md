@@ -6,12 +6,11 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/kayak1.png'
 ---
 
-<script src="{{ '/js/password.js' }}"></script>
-
 <div>
     <img src="/images/kayak2.png"/>
 </div>
 
+<script src="{{ '/js/password.js' }}"></script>
 <div id="password-section" class="password-section">
     <p class="password-section-p">This content is password protected. To view it please enter your password below:</p>
     <div class="password-section-content">
