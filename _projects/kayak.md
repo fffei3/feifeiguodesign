@@ -12,12 +12,14 @@ featured_image: '/images/kayak1.png'
 
 <script src="{{ '/js/password.js' }}"></script>
 <div id="password-section" class="password-section">
-    <p class="password-section-p">This content is password protected. To view it please enter your password below:</p>
+    <p class="text-start password-section-p">This content is password protected. To view it please enter your password below:</p>
     <div class="password-section-content">
-        <input id='password' class="password-section-input" type='password' />
-        <button type="button" class="password-section-button" onclick="canAccess()">
-            Submit
-        </button>
+        <div class="input-group mb-3">
+            <input id='password' class="form-control" type='password' />
+            <button type="button" class="btn btn-outline-secondary password-section-button" onclick="canAccess()">
+                Submit
+            </button>
+        </div>
     </div>
 </div>
 
