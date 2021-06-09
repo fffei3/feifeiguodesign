@@ -12,7 +12,7 @@ menu_settings:
     - title: 'Work'
       url: '/'
     - title: 'Playground'
-      url: '/playground/'
+      url: '/playground'
     - title: 'About'
       url: '/about'
 
