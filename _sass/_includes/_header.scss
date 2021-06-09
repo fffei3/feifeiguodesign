@@ -235,10 +235,13 @@
 	font-weight: $menu-weight;
 	color: $overlay-text-color;
 	padding: 10px 0;
+	text-decoration: none;
 
 	&:hover {
 		color: $overlay-accent-color;
+		text-decoration: underline;
 	}
+
 
 	@include mq(tabletl) {
 		padding: 0;
@@ -256,6 +259,7 @@
 	
 	&.active-link {
 		color: $overlay-accent-color;
+		text-decoration: underline;
 
 		@include mq(tabletl) {
 			color: $accent-color;

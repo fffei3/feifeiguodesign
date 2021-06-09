@@ -18,4 +18,4 @@ and always a learner.<br>
 
 Have a project in mind or just come say hi? I’d love to connect with you. Shoot me an email @ [fffeiguo@gmail.com](mailto:fffeiguo@gmail.com). if you're interested in getting in touch😊
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get the resume</a>
+<a href="{{ site.links.baseurl }}{{ site.links.resume }}" target="_blank" class="btn btn-dark">Get the resume</a>
