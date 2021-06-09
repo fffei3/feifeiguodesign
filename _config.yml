@@ -3,7 +3,7 @@ site: Index Jekyll Theme
 url: https://index.jekyllthemes.io
 baseurl: ""
 password:
-  kayak-encrypted: 50bee95efa962f69dadf17d4d5fd17a17ab640362db04ed2615829db82f27e1d
+  kayak-encrypted: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
 collections:
   pages:
