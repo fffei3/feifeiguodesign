@@ -18,6 +18,27 @@
   margin-right: 5px;
 }
 
+.btn-outline-secondary{
+  color: #000000 !important;
+  border-color: #000000 !important;
+  border-radius: 4px !important;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #000000 !important;
+  color: white !important;
+}
+
+.form-control {
+border-radius: 4px !important;
+margin-right: 8px !important;
+}
+
+.input-group {
+  width: 50% !important;
+}
+
+
 /* The Close Button */
 .close {
   color: #aaaaaa;

@@ -115,8 +115,8 @@ font_settings:
     line_height: 1.2
   h2:
     small_size: 14
-    medium_size: 16
-    large_size: 18
+    medium_size: 14
+    large_size: 14
     weight: 500
     letter_spacing: 0
     line_height: 1

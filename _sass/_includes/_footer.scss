@@ -11,6 +11,7 @@
 .footer {
 	@include transition(all 0.4s ease-in-out 0.8s);
 	padding: 20px;
+	
 
 	@include mq(tabletp) {
 		padding: 40px;
@@ -28,12 +29,13 @@
 	color: $text-light-color;
 
 	a {
-		margin-left: 10px;
+		text-decoration: none;
 		color: $text-light-color;
 		font-weight: $regular-weight;
 
 		&:hover {
 			color: $text-medium-color;
+			text-decoration: underline;
 		}
 	}
 }
