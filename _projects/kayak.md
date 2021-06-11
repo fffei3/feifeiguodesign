@@ -12,7 +12,7 @@ featured_image: '/images/kayak1.png'
 
 <script src="{{ '/js/password.js' }}"></script>
 <div id="password-section" class="password-section">
-    <p class="text-start password-section-p">This content is password protected. To view it please enter your password below:</p>
+    <h2 class="text-start password-section-p">This content is password protected. To view it please enter your password below:</h2>
     <div class="password-section-content">
         <div class="input-group mb-3">
             <input id='password' class="form-control" type='password' />

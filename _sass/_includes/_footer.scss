@@ -11,7 +11,6 @@
 .footer {
 	@include transition(all 0.4s ease-in-out 0.8s);
 	padding: 20px;
-	
 
 	@include mq(tabletp) {
 		padding: 40px;
@@ -27,6 +26,7 @@
 	margin-top: 15px;
 	font-size: 13px;
 	color: $text-light-color;
+
 
 	a {
 		text-decoration: none;
