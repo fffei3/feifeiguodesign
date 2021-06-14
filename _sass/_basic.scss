@@ -50,18 +50,18 @@ h1, .h1 {
 
 h2, .h2 {
 	margin-top: 40px;
-	font-size: $h2-small;
+	font-size: 14px !important;
 	font-weight: $h2-weight;
 	line-height: $h2-lineheight;
 	letter-spacing: $h2-spacing;
 	color: $text-light-color;
 
 	@include mq(tabletp) {
-		font-size: $h2-medium;
+		font-size: 14px !important;
 	}
 
 	@include mq(laptop) {
-		font-size: $h2-large;
+		font-size: 14px !important;
 	}
 }
 
@@ -364,7 +364,7 @@ body.loading {
 .page {
 
 	@include mq(tabletl) {
-		padding-left: 18%;
+		padding-left: 20%;
 	}
 }
 

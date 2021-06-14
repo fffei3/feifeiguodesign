@@ -23,13 +23,16 @@
 .portfolio-item__link {
 	position: relative;
 	display: block;
+	opacity: 1;
+
 
 	@include mq(tabletl) {
 
 		&:hover {
 			.portfolio-item__content {
-				opacity: 1;
+				opacity: 0;
 				visibility: visible;
+				background-color: rgba(255, 255, 255, 0.9);
 			}
 		}
 	}
@@ -53,15 +56,17 @@
 
 	opacity: 0;
 	visibility: hidden;
-	@include transition(all 0.2s ease-in-out);
+	@include transition(all 0.1s ease-in-out);
 }
 
 .portfolio-item__info {
 	text-align: left;
+
 }
 
 .portfolio-item__title {
 	color: $overlay-text-color;
+	color: black;
 	font-size: $grid-item-title-small;
 	font-weight: $grid-item-title-weight;
 	letter-spacing: $grid-item-title-spacing;
@@ -76,8 +81,8 @@
 }
 
 .portfolio-item__subtitle {
-	margin-top: 5px;
-	color: rgba($overlay-text-color, 0.7);
+	margin-top: 4px;
+	color: black;
 	font-size: $grid-item-subtitle-small;
 	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-subtitle-spacing;

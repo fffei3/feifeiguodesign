@@ -119,8 +119,8 @@
 	}
 
 	p a {
-		font-weight: $bold-weight;
-		border-bottom: 2px solid $accent-color;
+		font-weight: normal;
+		border-bottom: none;
 	}
 
 	p .button {
