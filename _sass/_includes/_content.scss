@@ -63,7 +63,7 @@
 	}
 
 	@include mq(laptop) {
-		padding: 60px $grid-spacing;
+		padding: 0px 60px 60px 0px;
 	}
 
 	h1, h2, h3, h4, h5, h6, p, ul, ol {

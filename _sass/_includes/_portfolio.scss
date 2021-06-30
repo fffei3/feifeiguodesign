@@ -6,7 +6,7 @@
 
 .portfolio {
 	margin-top: 0;
-	padding: 16px;
+	padding: 0px 60px 0px 0px;
 }
 
 .portfolio-wrap {
@@ -23,8 +23,6 @@
 .portfolio-item__link {
 	position: relative;
 	display: block;
-	opacity: 1;
-
 
 	@include mq(tabletl) {
 

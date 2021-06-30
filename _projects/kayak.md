@@ -1,14 +1,18 @@
 ---
-title: 'KAYAK'
-subtitle: 'Apps & Personalization'
+title: 
+subtitle: 
 date: 2018-09-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: 
 featured_image: '/images/kayak1.png'
 ---
-
 <div>
     <img src="/images/kayak2.png"/>
 </div>
+
+ <h1>KAYAK</h1>
+ <h4>Growth</h4>
+
+<br>
 
 <script src="{{ '/js/password.js' }}"></script>
 <div id="password-section" class="password-section">
