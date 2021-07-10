@@ -1,8 +1,8 @@
 ---
-title: 
-subtitle: 
+title:
+subtitle:
 date: 2018-09-30 00:00:00
-description: 
+description:
 featured_image: '/images/kayak1.png'
 ---
 <div>
@@ -16,7 +16,7 @@ featured_image: '/images/kayak1.png'
 
 <script src="{{ '/js/password.js' }}"></script>
 <div id="password-section" class="password-section">
-    <h2 class="text-start password-section-p">This content is password protected. To view it please enter your password below:</h2>
+    <h6 class="password-section-p">This content is password protected. To view it please enter your password below:</h6>
     <div class="password-section-content">
         <div class="input-group mb-3">
             <input id='password' class="form-control" type='password' />

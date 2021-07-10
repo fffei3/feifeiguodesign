@@ -364,8 +364,47 @@ body.loading {
 .page {
 
 	@include mq(tabletl) {
-		padding-left: 20%;
+		padding-left: 10%;
+		padding-right: 10%;
 	}
+}
+
+.corner_logo_section {
+	position: fixed;
+	float: right;
+	clear: both;
+	width: 20%;
+	top: 0;
+	right: 0;
+	margin-top: 50px;
+
+	@include mq(tabletl) {
+		margin-top: 40px;
+		padding: 40px 40px 35px;
+	}
+
+	@include mq(laptop) {
+		margin-top: 50px;
+		padding: 40px 40px 45px;
+	}
+}
+
+.corner_logo {
+	display: block;
+	width: $logo-width;
+	max-width: 80%;
+	top: 0px;
+	right: 0px;
+
+	@include mq(tabletp) {
+		float: right;
+		max-width: 50%;
+	}
+}
+
+.corner_logo_img {
+	width: 100%;
+	height: auto;
 }
 
 
@@ -402,7 +441,7 @@ section {
 	}
 
 	@include mq(laptop) {
-		
+
 	}
 }
 
@@ -474,4 +513,3 @@ section {
 		@include translate(0,30px);
 	}
 }
-

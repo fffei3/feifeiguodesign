@@ -27,7 +27,7 @@
 }
 
 .header__content {
-	width: 70%;
+	width: 40%;
 
 	@include mq(tabletl) {
 		position: relative;
@@ -37,42 +37,6 @@
 
 	@include mq(laptop) {
 		padding: 40px 40px 145px;
-	}
-}
-
-.header__logo {
-	display: block;
-	width: $logo-width;
-	max-width: 80%;
-
-	@include mq(tabletp) {
-		float: left;
-		max-width: 50%;
-	}
-}
-
-.header__logo__img {
-	width: 100%;
-	height: auto;
-}
-
-.header__title {
-	font-size: $sitetitle-small;
-	font-weight: $sitetitle-weight;
-	letter-spacing: $sitetitle-spacing;
-	line-height: 1;
-	color: $text-dark-color;
-
-	&:hover {
-		color: $accent-color;
-	}
-
-	@include mq(tabletp) {
-		font-size: $sitetitle-medium;
-	}
-
-	@include mq(laptop) {
-		font-size: $sitetitle-large;
 	}
 }
 
@@ -107,77 +71,6 @@
 
 	@include mq(laptop) {
 		margin-top: 30px;
-	}
-}
-
-.menu__toggle {
-	position: absolute;
-	z-index: 1002;
-	top: 20px;
-	right: 20px;
-	cursor: pointer;
-	font-size: 15px;
-	line-height: 20px;
-	color: $text-dark-color;
-
-	@include mq(tabletp) {
-		top: 40px;
-		right: 40px;
-	}
-	
-	@include mq(tabletl) {
-		display: none;
-	}
-}
-
-.menu__toggle__icon {
-	float: right;
-	position: relative;
-	width: 24px;
-	height: 20px;
-	margin-left: 8px;
-
-	span, span:before, span:after {
-		content: '';
-		position: absolute;
-		top: 8px;
-		left: 0;
-		width: 100%;
-		height: 3px;
-		@include transition(all 0.1s);
-		background: $text-dark-color;
-	}
-
-	span:before {
-		top: -8px;
-	}
-
-	span:after {
-		top: 8px;
-	}
-}
-
-.menu--open .menu__toggle__icon {
-
-	span:before, span:after {
-		background: $overlay-text-color !important;
-	}
-		
-	span {
-		background-color: transparent !important;
-	}
-	
-	span:before,
-	span:after {
-		top: 0;
-	}
-	
-	span:before {
-		@include rotate(45);
-	}
-
-	span:after {
-		@include rotate(-45);
 	}
 }
 
@@ -256,7 +149,7 @@
 	@include mq(laptop) {
 		font-size: $menu-large;
 	}
-	
+
 	&.active-link {
 		color: $overlay-accent-color;
 		text-decoration: underline;
@@ -287,7 +180,7 @@
 	font-family: "Graphik";
 	display: none;
 	padding: 12px 0px 0px;
-	
+
 	@include mq(tabletl) {
 		display: block;
 		margin-top: 20px;
@@ -314,6 +207,6 @@
 
 	@include mq(laptop) {
 		bottom: 40px;
-		left: 60px;
+		left: 40px;
 	}
 }
