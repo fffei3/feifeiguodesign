@@ -1,18 +1,18 @@
 ---
-title: 
-subtitle: 
-description: 
+title:
+subtitle:
+description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
 <div class="container">
   <div class="row">
     <div class="col">
-        <img src="images/aboutme.jpg" alt="about me image" width="350">
+        <img src="images/aboutme.jpg" alt="about me image" width="350" class="about_image">
     </div>
     <div class="col">
-        <h1>Hi! Nice to meet you.</h1>
-        <p>I'm Feifei, <br>
+        <h1 class="about_intro">Hi! Nice to meet you.</h1>
+        <p class="about_intro">I'm Feifei, <br>
         a product designer currently based in Boston,<br>
         a cat mum,<br>
         a creative problem solver,<br>
