@@ -10,7 +10,7 @@ featured_image: /images/demo/demo-landscape.jpg
     <div class="col">
         <img src="images/aboutme.jpg" alt="about me image" width="350" class="about_image">
     </div>
-    <div class="col">
+    <div class="col align-self-center">
         <h1 class="about_intro">Hi! Nice to meet you.</h1>
         <p class="about_intro">I'm Feifei, <br>
         a product designer currently based in Boston,<br>

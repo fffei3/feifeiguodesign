@@ -1,6 +1,6 @@
 ---
-title: 
-subtitle: 
+title:
+subtitle:
 date: 2018-08-30 00:00:00
 description:
 featured_image: '/images/micro1.png'
@@ -11,7 +11,7 @@ featured_image: '/images/micro1.png'
  <h1>Confront your microaggressions</h1>
  <h4>Thesis</h4>
 <br>
-<div class="container">
+<div class="container columnAdjustment">
   <div class="row">
     <div class="col">
 		<h6>Duration</h6>

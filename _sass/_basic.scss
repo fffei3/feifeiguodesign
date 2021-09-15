@@ -362,7 +362,6 @@ body.loading {
 }
 
 .page {
-
 	@include mq(tabletl) {
 		padding-left: 10%;
 		padding-right: 10%;
@@ -376,16 +375,16 @@ body.loading {
 	width: 20%;
 	top: 0;
 	right: 0;
-	margin-top: 50px;
+	margin-top: $grid-spacing;
 
 	@include mq(tabletl) {
-		margin-top: 40px;
-		padding: 40px 40px 35px;
+		margin-top: $grid-spacing;
+		padding: 0px 40px 35px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 50px;
-		padding: 40px 40px 45px;
+		margin-top: $grid-spacing;
+		padding: 0px 40px 45px;
 	}
 }
 

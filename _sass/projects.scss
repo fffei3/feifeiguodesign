@@ -8,11 +8,27 @@
 //   font-size: 14px !important;
 // }
 
-// .password-section-content {
-//   display: flex;
-//   padding-top: 8px;
-//   margin-left: auto;
-// }
+.password-section-content {
+  display: flex;
+  padding-top: 8px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include mq(tabletp) {
+  }
+
+  @include mq(tabletl) {
+    max-width: 70%;
+  }
+
+  @include mq(laptop) {
+    max-width: 65%;
+  }
+}
+
+.columnAdjustment{
+  max-width: 80% !important;
+}
 //
 // .password-section-input {
 //   font-size: 20px;

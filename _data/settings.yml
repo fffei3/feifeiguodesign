@@ -19,7 +19,7 @@ menu_settings:
 
 grid_settings:
   overlay_opacity: 0.1
-  grid_spacing: 24
+  grid_spacing: 48
 
 contact_settings:
   form_action: ''
