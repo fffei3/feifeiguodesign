@@ -429,19 +429,7 @@ section {
 .wrap {
 	position: relative;
 	margin: 0 auto;
-	padding: 0 20px;
-
-	@include mq(tabletp) {
-		padding: 0 40px;
-	}
-
-	@include mq(tabletl) {
-		padding: 0;
-	}
-
-	@include mq(laptop) {
-
-	}
+	padding: $grid-spacing;
 }
 
 

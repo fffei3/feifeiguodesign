@@ -1,8 +1,8 @@
 ---
-title: 
-subtitle: 
+title:
+subtitle:
 date: 2017-11-30 00:00:00
-description: 
+description:
 featured_image: '/images/ilead1.gif'
 ---
 
@@ -10,7 +10,7 @@ featured_image: '/images/ilead1.gif'
 
  <h1>iLead</h1>
 <br>
-<div class="container">
+<div class="container columnAdjustment">
   <div class="row">
     <div class="col">
 		<h6>Start time</h6>
