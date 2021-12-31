@@ -28,5 +28,6 @@ featured_image: '/images/kayak1.png'
 </div>
 
 <div id="content-hide" class="display-none">
-    <h2>Coming soon...</h2>
+    <h6>Please click the button to view the latest projects. Thank you! </h6>
+    <h6><a href="https://www.figma.com/proto/yHTCyW4kSIXZkyvQd5FG5D/Feifei-Guo-Portfolio?page-id=0%3A1&node-id=1%3A2&viewport=241%2C48%2C0.02&scaling=contain&starting-point-node-id=1%3A2" target="_blank" class="btn btn-dark">View projects</a></h6>
 </div>
