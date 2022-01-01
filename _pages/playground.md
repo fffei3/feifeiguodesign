@@ -5,6 +5,7 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 <div class="gallery" data-columns="3">
+    <img src="/images/play15.gif">
     <img src="/images/play14.gif">
     <img src="/images/play12.gif">
     <img src="/images/play13.gif">
